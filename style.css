@@ -201,6 +201,7 @@ img{
 .attribution a {
     color: hsla(200, 74%, 45%, 0.726); 
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 .attribution a:hover{
